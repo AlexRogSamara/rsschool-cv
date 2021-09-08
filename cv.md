@@ -1,7 +1,6 @@
 # Alexandr Rogachev
 
 **Contact information:**
-
 - _rsschool:_ AlexRogSamara
 - _email:_ a-a-rog@mail.ru
 
@@ -9,12 +8,12 @@
 
 I was born on February 11, 1958. I worked as an electrician, then a teacher of mathematics, physics and computer science at school. Now I am a pensioner. But I still enjoy learning new things.
 
-**my skills:**
+**My skills:**
 
 - Basic (my first love)
 - VBA
 - Pascal
-- Delpfi
+- Delphi
 - RenPy
 - Python (my last love)
 
@@ -26,7 +25,7 @@ I was born on February 11, 1958. I worked as an electrician, then a teacher of m
 </a>
 ```
 
-**experience:**  
+**Experience:**  
 I have no web programming experience yet.
 
 **Education:**  
